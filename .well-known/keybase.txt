@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ubertidavide
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ubertidavide.github.io
+  * I am ubertidavide (https://keybase.io/ubertidavide) on keybase.
+  * I have a public key ASAv5W6iISnfwqzN6TjeYbDgreYl0WteQNDm_AhKr9yw-go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202fe56ea22129dfc2accde938de61b0e0ade625d16b5e40d0e6fc084aafdcb0fa0a",
+      "host": "keybase.io",
+      "kid": "01202fe56ea22129dfc2accde938de61b0e0ade625d16b5e40d0e6fc084aafdcb0fa0a",
+      "uid": "9847d4146bd49ccfc3c6dce827355a19",
+      "username": "ubertidavide"
+    },
+    "merkle_root": {
+      "ctime": 1655022856,
+      "hash": "d5dc635ff6809a9b0e144075232ae36353a76515703d65c4fbef918eb515c5a129ffb2719d0ba10a696fdf1a016765dbe5206ece3c8da67d416d20e57eef10c8",
+      "hash_meta": "85c9ba157ba27693e08f92dfc302d3da374a4be25675929de105ca9c4f7d42e8",
+      "seqno": 22659035
+    },
+    "service": {
+      "entropy": "y2YKNw9Pd+guju8kUvNwcaST",
+      "hostname": "ubertidavide.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1655023141,
+  "expire_in": 504576000,
+  "prev": "cddb881a2c1c5d7898dba0d8b46e873dbdace170135a49f9f194672e31786abe",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL+VuoiEp38Kszek43mGw4K3mJdFrXkDQ5vwISq/csPoKp3BheWxvYWTESpcCBsQgzduIGiwcXXiY26DYtG6HPb2s4XATWkn58ZRnLjF4ar7EID8SH7G6AWj2K6wkXU9BU0X6iEiUcWUvfVP+vG5RxVrMAgHCo3NpZ8RALC4LwsGnivds398kjrmDiprTM0hwJUos69QJWcc0/WLqagLnSpIU2csg0yE700AG2VhcXRubR/PJKtWI/hZhAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDKC7ivlfV1uONyPB0C5r0uCcyy9akPc8a40Ldu0mtH9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ubertidavide
+
+==================================================================
