@@ -1,3 +1,9 @@
+---
+title: Keybase
+permalink: /keybase.txt
+---
+
+<p>
 ==================================================================
 https://keybase.io/ubertidavide
 --------------------------------------------------------------------
@@ -20,13 +26,13 @@ To do so, I am signing this object:
       "username": "ubertidavide"
     },
     "merkle_root": {
-      "ctime": 1655022856,
-      "hash": "d5dc635ff6809a9b0e144075232ae36353a76515703d65c4fbef918eb515c5a129ffb2719d0ba10a696fdf1a016765dbe5206ece3c8da67d416d20e57eef10c8",
-      "hash_meta": "85c9ba157ba27693e08f92dfc302d3da374a4be25675929de105ca9c4f7d42e8",
-      "seqno": 22659035
+      "ctime": 1655044362,
+      "hash": "897e52c06d2bc4db2871619b80da41e201bf66de0e1a799baae1ada3347d94bb5a31d63f7e09befd4307fbf976123efa8f8bf53a879781512f4b4c0673b2c6cb",
+      "hash_meta": "9146b9adba750133b9e9ba1489bd31bb783dff9abe16b43f795d16dc0e6b2330",
+      "seqno": 22660149
     },
     "service": {
-      "entropy": "y2YKNw9Pd+guju8kUvNwcaST",
+      "entropy": "RwXGHxiTxX3GurvcYT94Uaub",
       "hostname": "ubertidavide.github.io",
       "protocol": "https:"
     },
@@ -37,20 +43,20 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "6.0.1"
   },
-  "ctime": 1655023141,
+  "ctime": 1655044383,
   "expire_in": 504576000,
-  "prev": "cddb881a2c1c5d7898dba0d8b46e873dbdace170135a49f9f194672e31786abe",
-  "seqno": 6,
+  "prev": "bedcfc34624860af2ce89b222b334452fb82070b054762e68c14815f78decd2f",
+  "seqno": 9,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL+VuoiEp38Kszek43mGw4K3mJdFrXkDQ5vwISq/csPoKp3BheWxvYWTESpcCBsQgzduIGiwcXXiY26DYtG6HPb2s4XATWkn58ZRnLjF4ar7EID8SH7G6AWj2K6wkXU9BU0X6iEiUcWUvfVP+vG5RxVrMAgHCo3NpZ8RALC4LwsGnivds398kjrmDiprTM0hwJUos69QJWcc0/WLqagLnSpIU2csg0yE700AG2VhcXRubR/PJKtWI/hZhAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDKC7ivlfV1uONyPB0C5r0uCcyy9akPc8a40Ldu0mtH9o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL+VuoiEp38Kszek43mGw4K3mJdFrXkDQ5vwISq/csPoKp3BheWxvYWTESpcCCcQgvtz8NGJIYK8s6JsiKzNEUvuCBwsFR2LmjBSBX3jezS/EIG8W6u2gXpF6Ce3P8exCHCq10cig/Sq7rD8+SbFg2GXtAgHCo3NpZ8RAarPakWZdHKxOOGSP98HnyfjQjfBD6fm6xdHXNFLLfzhnT1zy9FXt7l8EPwA1SmvbqRK3ZZtyEUie1+HW0PlYDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIANaNZhHUUptbbpgw4qoyvhnm8z+G+zEa9m/iaLYhggMo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/ubertidavide
 
-==================================================================
+==================================================================</p>

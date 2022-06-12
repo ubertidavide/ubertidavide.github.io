@@ -70,3 +70,22 @@ google_analytics: G-CR94ZL2WZ0
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: [_pages]
+
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /blog/:categories/:title/
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default

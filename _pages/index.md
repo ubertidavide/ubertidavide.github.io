@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Home
+permalink: /
 ---
 
 Questo è il mio portfolio, qui potrai trovare informazioni per conoscermi meglio.  
