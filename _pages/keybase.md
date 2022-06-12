@@ -1,3 +1,9 @@
+---
+title: Keybase
+permalink: /keybase.txt
+---
+
+```
 ==================================================================
 https://keybase.io/ubertidavide
 --------------------------------------------------------------------
@@ -54,3 +60,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/ubertidavide
 
 ==================================================================
+```
