@@ -20,9 +20,8 @@
 
 title: Davide Uberti
 logo: /assets/img/profilo.png
-email: ubertidavide@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Attualmente impiegato presso Risolve.net Srl e studente di Ing. Informatica presso UNIBS.
+  Impiegato presso RISOLVE.NET Srl e studente UNIBS Ing. Informatica
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: ubertidavide.github.io 
 url: https://ubertidavide.github.io # the base hostname & protocol for your site, e.g. http://example.com
@@ -41,7 +40,7 @@ social_links:
   twitter: ubertidavide
   github:  ubertidavide
   linkedin: davide-uberti-b4ba8811a
-  keybase: ubertidavide
+  #keybase: ubertidavide
 
 # additional theme properties
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
